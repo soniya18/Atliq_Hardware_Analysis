@@ -17,7 +17,7 @@ The dataset consists of multiple relational tables containing information on:
 
 ## Tools & Technologies Used
 - **SQL**: Querying and analyzing structured data
-- **MySQLL**: Database management
+- **MySQL**: Database management
 - **Power BI**: Data visualization
 
 ## Outline
